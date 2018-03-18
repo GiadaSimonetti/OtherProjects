@@ -10,13 +10,13 @@
 
 ### Udemy projects:
 
-* A Javascript [color game](https://github.com/GiadaSimonetti/Color-game)
+* A Javascript [Color game](https://github.com/GiadaSimonetti/Color-game)
 
 * A Javascript/jQuery [Todo-list](https://github.com/GiadaSimonetti/Todo-list)
 
 ### Codeschool project:
 
-* A React [comment app](https://codepen.io/Magenta/full/yvWeVy/)
+* A React [Comment app](https://codepen.io/Magenta/full/yvWeVy/)
 
 ### peacehackLDN 2017 project:
 
