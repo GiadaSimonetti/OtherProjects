@@ -16,6 +16,8 @@
 
 ### Codeschool project:
 
+* A React [comment app](https://codepen.io/Magenta/full/yvWeVy/)
+
 ### peacehackLDN 2017 project:
 
 * I have been to some meetups, such as a Codebar monthly talk, and a hackathon (peacehackLDN 2017: Robots for Peace) in which I built a Twitter bot that sends a random message of peace every hour: https://twitter.com/GiadaPeaceBot .
