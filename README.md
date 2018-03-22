@@ -14,6 +14,8 @@
 
 * A Javascript/jQuery [Todo-list](https://github.com/GiadaSimonetti/Todo-list)
 
+* A Javascript/Library [PatatapClone](https://github.com/GiadaSimonetti/PatatapClone)
+
 ### Codeschool project:
 
 * A React [Comment app](https://codepen.io/Magenta/full/yvWeVy/)
