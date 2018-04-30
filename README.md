@@ -20,10 +20,10 @@
 
 * A React [Comment app](https://codepen.io/Magenta/full/yvWeVy/)
 
-### Full Stack Hack 27th of April 2018:
-
-* Full Stack Hack is a Hackathon where I got a chance to build a full stack application in one day using the top technology stack for today’s modern web applications specifically MongoDB, Kafka and Node.js.
-
 ### peacehackLDN 2017 project:
 
-* I have been to some meetups, such as a Codebar monthly talk, and a hackathon (peacehackLDN 2017: Robots for Peace) in which I built a Twitter bot that sends a random message of peace every hour: https://twitter.com/GiadaPeaceBot .
+I have been to some meetups, such as a Codebar monthly talk, and hackathons:
+
+* _**Full Stack Hack**_ (27th of April 2018) where I got a chance to build a full stack application in one day using the top technology stack for today’s modern web applications specifically MongoDB, Kafka and Node.js.
+
+* _**peacehackLDN 2017: Robots for Peace**_ in which I built a Twitter bot that sends a random message of peace every day: https://twitter.com/GiadaPeaceBot .
