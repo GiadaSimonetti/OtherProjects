@@ -20,7 +20,7 @@
 
 * A React [Comment app](https://codepen.io/Magenta/full/yvWeVy/)
 
-### peacehackLDN 2017 project:
+### Hackathons:
 
 I have been to some meetups, such as a Codebar monthly talk, and hackathons:
 
