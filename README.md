@@ -10,6 +10,8 @@
 
 ### Udemy projects:
 
+* A React [GiftGiver web app](https://github.com/GiadaSimonetti/giftgiver)
+
 * A Javascript [Color game](https://github.com/GiadaSimonetti/Color-game)
 
 * A Javascript/jQuery [Todo-list](https://github.com/GiadaSimonetti/Todo-list)
