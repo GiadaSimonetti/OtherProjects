@@ -1,8 +1,9 @@
 # OtherProjects
 
-### #javascrip30:
+### JavaScrip30:
 
-[JavaScript30](https://github.com/GiadaSimonetti/JavaScript30) 30 Day Vanilla JS Coding Challenge [#javascript30]((www.javascript30.com))
+[JavaScript30](https://github.com/GiadaSimonetti/JavaScript30) 30 Day Vanilla JS Coding Challenge [#javascript30]((www.javascript30.com)
+
 Build 30 things in 30 days with 30 tutorials
 No Frameworks, No Compilers, No Libraries and No Boilerplate
 
