@@ -1,5 +1,11 @@
 # OtherProjects
 
+### #javascrip30:
+
+[JavaScript30](www.javascript30.com) 30 Day Vanilla JS Coding Challenge
+Build 30 things in 30 days with 30 tutorials
+No Frameworks×No Compilers×No Libraries×No Boilerplate
+
 ### FreeCodeCamp projects:
 
 * a page that displays the [current weather](https://goo.gl/ErCL9R) It consumes data from a public API, and can find the location of the user, show the weather and change the temperature from Celsius to Fahrenheit.
