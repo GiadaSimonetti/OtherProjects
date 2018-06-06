@@ -1,11 +1,12 @@
 # OtherProjects
 
-### JavaScrip30:
+### Wes Bos courses:
 
-[JavaScript30](https://github.com/GiadaSimonetti/JavaScript30) 30 Day Vanilla JS Coding Challenge [#javascript30](www.javascript30.com)
-
+* [JavaScript30](https://github.com/GiadaSimonetti/JavaScript30) 30 Day Vanilla JS Coding Challenge [#javascript30](www.javascript30.com)
 Build 30 things in 30 days with 30 tutorials
 No Frameworks, No Compilers, No Libraries and No Boilerplate
+
+* [What-The-Flexbox](https://github.com/GiadaSimonetti/What-The-Flexbox) CSS Flexbox course
 
 ### FreeCodeCamp projects:
 
